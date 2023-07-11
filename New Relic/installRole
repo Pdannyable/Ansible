@@ -1,0 +1,2 @@
+#install a role in the Ansible Server
+ansible-galaxy install newrelic.newrelic_install
