@@ -8,4 +8,4 @@ Step 2:
 Create playbook with role (above) inserted in the playbook
 
 Step 3:
-
+Run playbook on the inventory
